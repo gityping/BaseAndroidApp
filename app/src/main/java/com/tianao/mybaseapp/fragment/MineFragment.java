@@ -27,4 +27,9 @@ public class MineFragment extends BaseFragment {
     public void setClickEvent(View view) {
 
     }
+
+    @Override
+    public void init(View view) {
+
+    }
 }

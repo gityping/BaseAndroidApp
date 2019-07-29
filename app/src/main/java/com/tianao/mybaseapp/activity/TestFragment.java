@@ -24,4 +24,9 @@ public class TestFragment extends BaseFragment {
     public void setClickEvent(View view) {
 
     }
+
+    @Override
+    public void init(View view) {
+
+    }
 }
